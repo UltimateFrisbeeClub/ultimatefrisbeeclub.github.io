@@ -1,0 +1,14 @@
+.bg-company-color {
+    background-color: #339BFF;
+}
+body {
+    background-image: url("images/img1.jpg");
+    background-size:cover;
+} 
+
+@media(min-width: 768px) {
+  .field-label-responsive {
+    padding-top: .5rem;
+    text-align: right;
+  }
+}
